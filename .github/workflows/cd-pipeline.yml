@@ -76,3 +76,5 @@ jobs:
           --platform "managed" \
           --allow-unauthenticated \
           --tag staging \
+
+#adding some note to retry my workflows
